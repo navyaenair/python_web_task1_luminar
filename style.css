@@ -1,0 +1,66 @@
+body {
+            background-image: url(./AQUA.jpg);
+            background-size: cover;
+            overflow: hidden;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 90%;
+            margin: auto;
+            align-items: center;
+        }
+
+        h5 {
+
+            margin: 0;
+            padding: 8px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        td {
+            padding: 5px 8px;
+
+
+        }
+
+        h2,
+        h5 {
+            text-align: center;
+        }
+
+        h2 {
+            color: white;
+        }
+
+        textarea {
+            width: 300px;
+            height: 60px;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="number"],
+        input[list] {
+            width: 60%;
+            padding: 5px;
+        }
+
+        button {
+            display: block;
+            margin: auto;
+            padding: 5px 10px;
+            border: none;
+            background: hsl(212, 78%, 55%);
+            color: white;
+            font-size: 15px;
+        }
+
+        .container {
+            background-color: #ffffff;
+            max-width: 750px;
+            margin: auto;
+            border-radius: 4px;
+
+        }
